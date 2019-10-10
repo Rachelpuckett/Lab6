@@ -9,8 +9,8 @@ To run, open the notebook in JupyterHub and run the code cell.
 ## Usage
 
 ```python
-What is your name: # input your name here
-Do you own at least one cat? (Y/N) # input Y or y for yes and N or n for no
+"What is your name: " # input your name here
+"Do you own at least one cat? (Y/N)" # input Y or y for yes and N or n for no
 ```
 
 ### Other Important Information
@@ -37,7 +37,8 @@ Changes and improvements are welcome. Additional parameters to more accurately c
 
 
 
-*Made by:*
+
+# *Made by:*
 
 Rachel
 
